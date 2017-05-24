@@ -1,0 +1,64 @@
+body {
+  background-color: lightgrey;
+}
+
+
+.content {
+  max-width: 725px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+}
+
+
+.header {
+  margin-top: 75px;
+}
+
+h2 {
+  text-align: center;
+  margin: 0;
+  font-size: 30px;
+}
+
+h3 {
+  text-align: center;
+  margin: 5;
+  font-weight: normal;
+}
+
+.photoLink span a {
+  color: green;
+  position: absolute;
+  text-align: center;
+  left: 49%;
+  top: 50%;
+}
+
+.links  {
+  text-align: center;
+  padding: 10px;
+}
+
+.links a {
+  padding: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(66, 66, 66);
+}
+
+.photoLink {
+  margin-top: 15px;
+}
+
+#book1 {
+  width: 100%;
+  height: 20%;
+  background-size: cover;
+  background: url(../images/series-book1-lrg.jpg);
+  background-size: cover;
+}
+
+img {
+  /*opacity: .60;*/
+}
