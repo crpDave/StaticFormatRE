@@ -31,7 +31,7 @@ h3 {
   color: green;
   position: absolute;
   text-align: center;
-  left: 49%;
+  left: 50%;
   top: 50%;
 }
 
@@ -44,21 +44,9 @@ h3 {
   padding: 10px;
   text-decoration: none;
   font-weight: bold;
-  color: rgb(66, 66, 66);
+  color: #424242;
 }
 
 .photoLink {
   margin-top: 15px;
-}
-
-#book1 {
-  width: 100%;
-  height: 20%;
-  background-size: cover;
-  background: url(../images/series-book1-lrg.jpg);
-  background-size: cover;
-}
-
-img {
-  /*opacity: .60;*/
 }
